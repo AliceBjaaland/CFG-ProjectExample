@@ -1,6 +1,16 @@
 h1{
   color: pink;
+  text-align: left;
+  font-size:300%;
 }
 p{
   color:green;
+  text-indent: 150%;
+  font-size:
+}
+.houseMates{
+  color:purple;
+}
+.mood{
+  color:red;
 }
